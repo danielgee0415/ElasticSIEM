@@ -22,7 +22,7 @@ First step we will be Connecting our Elastic Agent to our host
 
 ![CYB4bqa](https://github.com/danielgee0415/ElasticSIEM/assets/20386303/dad1c0d3-521a-4045-826f-8a4b29bc8a87)
 
-After successfully connecting to our Kali Linux host i use nmap commands to generate tasks
+After successfully connecting to our Kali Linux host we use nmap commands to generate tasks
 
 ![image](https://github.com/danielgee0415/ElasticSIEM/assets/20386303/34d8af89-9bbb-4882-84d8-2ad513763e6e)
 
