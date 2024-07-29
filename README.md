@@ -34,7 +34,7 @@ And we view details and confirm that it indeed was our entry
 
 ![image](https://github.com/danielgee0415/ElasticSIEM/assets/20386303/2cf2d789-d39a-49df-a894-7ff0d76738eb)
 
-Now we set up a visualisation with the horizontal axis being timestamp and vertical axis beinr count of records
+Now we set up a visualisation with the horizontal axis being timestamp and vertical axis being count of records
 
 ![image](https://github.com/danielgee0415/ElasticSIEM/assets/20386303/053ec562-9932-4334-a799-eb5f3af8b710)
 
